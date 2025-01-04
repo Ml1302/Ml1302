@@ -43,8 +43,6 @@
 
 ###
 
-<div align="center">
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31wupqdj3hqll6oh47cn6pwn77pq)
-</div>
+<img src="https://raw.githubusercontent.com/Ml1302/Ml1302/output/snake.svg" alt="Snake animation" />
 
 ###
