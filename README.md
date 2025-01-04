@@ -42,7 +42,3 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/Ml1302/Ml1302/output/snake.svg" alt="Snake animation" />
-
-###
