@@ -43,16 +43,8 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Ml1302/Ml1302/output/snake.svg" alt="Snake animation" />
-
-###
-
 <div align="center">
-  <a href="https://open.spotify.com/user/Moga_13">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=Moga_13&count=5&unique=false" alt="Spotify recently played"  />
-  </a>
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31wupqdj3hqll6oh47cn6pwn77pq)
 </div>
 
 ###
