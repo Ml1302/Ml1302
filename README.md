@@ -15,7 +15,7 @@
 <img src="https://streak-stats.demolab.com?user=Ml1302&mode=daily&theme=tokyonight&hide_border=true&border_radius=16&locale=en&background=0D1117" height="165" alt="streak graph" />
 
 </div>
-
+<br><br>
 <div align="center">
 
 <a href="https://www.linkedin.com/in/miguel-angel-espinoza-ricra-982b20271" target="_blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=flat-square" height="30" alt="linkedin" /></a>
